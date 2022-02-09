@@ -31,7 +31,7 @@ The code herein contained is the same as what Jonas implemented during class. Wh
 
 ### Links
 
-- Live Site URL: [https://designo-web.netlify.app/](https://designo-web.netlify.app/)
+- Live Site URL: [https://guesssmynumber.netlify.app/](https://guesssmynumber.netlify.app/)
 
 ## My process
 
